@@ -1,0 +1,23 @@
+{
+    "name": "Prueba-pwa",
+    "short_name": "Prueba",
+    "description": "Aplicacion de prueba pwa",
+    "start_url": "./",
+    "background_color": "#f9d627",
+    "display": "standalone",
+    "scope": "./",
+    "theme_color": "#f9d627",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "./imagenes/icon-128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "./imagenes/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ]
+}
